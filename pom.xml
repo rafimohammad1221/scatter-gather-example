@@ -23,13 +23,8 @@
     <artifactId>mule-maven-plugin</artifactId>
     <version>2.0</version>
     <configuration>
-        <deploymentType>cloudhub</deploymentType>
-        <muleVersion>3.8.5</muleVersion>
-        <username>rafimohammad12</username>
-        <password>Anisbaig@821</password>
-	      <workerType>Micro</workerType>
-        <redeploy>true</redeploy>
-        <environment>Sandbox</environment>
+        <deploymentType>standalone</deploymentType>
+        <muleVersion>3.8.0</muleVersion>
     </configuration>
     <executions>
         <execution>
