@@ -31,7 +31,6 @@
                 <id>deploy</id>
             <phase>deploy</phase>
                 <goals>
-                    <goal>start</goal>
                     <goal>deploy</goal>
                 </goals>
             </execution>
