@@ -28,7 +28,7 @@
         <username>rafimohammad12</username>
         <password>Anisbaig@821</password>
 	      <workerType>Micro</workerType>
-        <redeploy>false</redeploy>
+        <redeploy>true</redeploy>
         <environment>Sandbox</environment>
     </configuration>
     <executions>
